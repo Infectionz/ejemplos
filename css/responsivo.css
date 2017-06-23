@@ -9,7 +9,8 @@ header{
 .color{
 
 background-color: 	#6495ED;
-border-width: 10px;
+border-width: 5px;
+border-style: double;
 
 }
 
